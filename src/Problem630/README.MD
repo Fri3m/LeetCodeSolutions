@@ -31,10 +31,9 @@ Example 3:
 
 Input: courses = [[3,2],[4,3]]
 Output: 0
-
-
-Constraints:
 ````
+Constraints:
+
 1 <= courses.length <= 104
 1 <= durationi, lastDayi <= 104
 

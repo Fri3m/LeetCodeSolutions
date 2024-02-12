@@ -1,4 +1,4 @@
-package Problem630;
+package Problem630NOTSOLVED;
 
 
 import java.util.ArrayList;

@@ -1,7 +1,6 @@
-package Problem743;
+package Problem743NOTSOLVED;
 
 import java.util.*;
-import java.util.function.IntFunction;
 
 public class Solution743 {
     public static void main(String[] args) {

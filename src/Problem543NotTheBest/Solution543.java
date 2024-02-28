@@ -1,4 +1,4 @@
-package Problem543;
+package Problem543NotTheBest;
 
 public class Solution543 {
     int max = 0;

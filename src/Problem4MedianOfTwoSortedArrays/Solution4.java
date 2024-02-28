@@ -1,4 +1,4 @@
-package Problem4;
+package Problem4MedianOfTwoSortedArrays;
 
 public class Solution4 {
     public static void main(String[] args) {

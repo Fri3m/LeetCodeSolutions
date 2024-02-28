@@ -1,4 +1,4 @@
-package Problem3031;
+package Problem3031MinimumTimeToRevertWordToInitialState2;
 
 public class Solution3031 {
 

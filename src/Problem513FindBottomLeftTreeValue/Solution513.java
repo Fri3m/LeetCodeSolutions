@@ -1,4 +1,4 @@
-package Problem513;
+package Problem513FindBottomLeftTreeValue;
 
 public class Solution513 {
     int max =-1;

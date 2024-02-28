@@ -1,4 +1,4 @@
-package Problem268;
+package Problem268MissingNumber;
 
 import java.util.Arrays;
 import java.util.HashSet;

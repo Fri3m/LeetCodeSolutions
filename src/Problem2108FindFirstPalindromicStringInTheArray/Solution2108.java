@@ -1,4 +1,4 @@
-package Problem2108;
+package Problem2108FindFirstPalindromicStringInTheArray;
 
 public class Solution2108 {
     //Leetcode result Runtime 2ms(Beats 71.53% of users with Java) Memory 44.5MB(Beats 91.24% of users with Java)

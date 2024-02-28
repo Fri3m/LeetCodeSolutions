@@ -1,6 +1,4 @@
-package Problem169;
-
-import java.util.Arrays;
+package Problem169MajorityElement;
 
 public class Solution169 {
     public static void main(String[] args) {

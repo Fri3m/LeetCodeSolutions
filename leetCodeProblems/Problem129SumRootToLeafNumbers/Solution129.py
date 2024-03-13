@@ -32,6 +32,6 @@ class Solution(object):
                 self.returnNumbers(node.right, x * 10 + node.val)
 
 
-# Path: src/Problem129SumRootToLeafNumbers/Solution129.py
+# Path: leetCodeProblems/Problem129SumRootToLeafNumbers/Solution129.py
 print(Solution().sumNumbers(TreeNode(1, TreeNode(2), TreeNode(3))))
 print(Solution().sumNumbers(TreeNode(4, TreeNode(9, TreeNode(5), TreeNode(1)), TreeNode(0))))

@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         points = sorted(points, key=lambda x: x[1])
-        # print(points)
+        print(points)
         if len(points) == 0:
             return 0
         arrows = 1

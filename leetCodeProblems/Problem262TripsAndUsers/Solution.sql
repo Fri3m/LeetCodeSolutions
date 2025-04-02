@@ -1,3 +1,5 @@
+-- noinspection SqlNoDataSourceInspectionForFile
+
 /* Solved in MS SQL Server*/
 select allDays.dt 'Day', cast(( ISNULL(canT.total * 1.0, 0) / (ISNULL(comT.comTotal * 1.0 , 0) + ISNULL(canT.total * 1.0, 0))) as decimal(10,2)) 'Cancellation Rate'
 from (

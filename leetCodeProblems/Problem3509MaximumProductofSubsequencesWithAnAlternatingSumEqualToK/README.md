@@ -31,6 +31,7 @@ The subsequences with an alternating sum of 2 are:
 - Product: 2
 
 The maximum product within the limit is 6.
+</div>
 
 **Example 2:**
 
@@ -42,11 +43,12 @@ Output: -1
 Explanation:
 
 A subsequence with an alternating sum of exactly -5 does not exist.
+</div>
 
 **Example 3:**
 
 <div class="example-block">
-Input: nums = [2,2,3,3], k = 0, limit = 9
+Input: nums = [2,2,3,3], k = 0, limit = 9 
 
 Output: 9
 
@@ -70,6 +72,7 @@ The subsequences with an alternating sum of 0 are:
 - Product: `2 * 2 * 3 * 3 = 36`
 
 The subsequence `[2, 2, 3, 3]` has the greatest product with an alternating sum equal to `k`, but `36 > 9`. The next greatest product is 9, which is within the limit.
+</div>
 
 **Constraints:**
 
